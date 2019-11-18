@@ -7,7 +7,7 @@ This is an App which calls a open Stub API to fetch recipes of meals. The featur
  > Search Recipe from Recipe name and Ingredients
 
 
- ![Recipe Collection](./thumbnails/recipe.png=100x200)
+ ![Recipe Collection](./thumbnails/recipe.png)
 
 
- ![Recipe Detail](./thumbnails/recipeDetail.png=100x200)
+ ![Recipe Detail](./thumbnails/recipeDetail.png)
