@@ -10,4 +10,4 @@ This is an App which calls a open Stub API to fetch recipes of meals. The featur
  ![Recipe Collection](./thumbnails/recipe.png)
 
 
- ![Recipe Detail](./humbnails/recipeDetail.png)
+ ![Recipe Detail](./thumbnails/recipeDetail.png)
